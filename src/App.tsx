@@ -97,7 +97,7 @@ function App() {
                         display: "flex",
                         gap: 2,
                         flexGrow: 1,
-                        maxWidth: 600, // ✅ Aumentado de 500 a 600
+                        maxWidth: 600,
                       }}
                     >
                       <FilterSearch
